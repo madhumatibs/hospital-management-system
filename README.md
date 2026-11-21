@@ -126,3 +126,25 @@ Entity ID fields remain scalar integers to preserve the existing JSON/UI contrac
 
 ## Current verification status
 See `AUDIT_REPORT.md` and `TEST_REPORT.md`. Static checks can be run in this environment, but Maven/MySQL runtime verification is blocked here. The test suite is prepared but **has not been executed in this environment**. Do not describe the project as fully compiled, fully tested, secure, or production ready until the listed commands have been run successfully in a Maven/MySQL/browser-capable environment.
+
+SCREENSHOT
+
+#BACKEND CONSOLE
+<img width="1522" height="800" alt="Screenshot 2026-11-22 002331" src="https://github.com/user-attachments/assets/886f66f0-0ed6-4ac6-b6ab-edc0c0003975" />
+
+#FRONTEND RUNNING 
+<img width="1062" height="532" alt="image" src="https://github.com/user-attachments/assets/5ad671ee-be0e-43a0-a4b7-4fea0c86f5a7" />
+<img width="1913" height="916" alt="Screenshot 2026-11-22 002155" src="https://github.com/user-attachments/assets/4090a913-4c93-4b95-9cda-2d98518bef05" />
+<img width="1912" height="906" alt="Screenshot 2026-11-22 002220" src="https://github.com/user-attachments/assets/afb43788-cd1f-4fd7-a4af-05493bab5963" />
+<img width="1907" height="912" alt="Screenshot 2026-11-22 002241" src="https://github.com/user-attachments/assets/8f8f729f-99e4-468f-9c98-a245798f9c1d" />
+<img width="1916" height="912" alt="Screenshot 2026-11-22 002352" src="https://github.com/user-attachments/assets/29f30b25-a5a1-439e-9810-0d7d650bdae3" />
+<img width="1916" height="912" alt="Screenshot 2026-11-22 002407" src="https://github.com/user-attachments/assets/32604654-e259-4f47-8479-b9a0ea6c65f9" />
+<img width="1071" height="552" alt="Screenshot 2026-11-22 002420" src="https://github.com/user-attachments/assets/e4197283-1fdd-48be-9be9-e0576e7a74cb" />
+<img width="1105" height="548" alt="Screenshot 2026-11-22 002446" src="https://github.com/user-attachments/assets/614a1013-f5ba-4409-b791-c5cd2ff5f411" />
+<img width="1062" height="532" alt="Screenshot 2026-11-22 002459" src="https://github.com/user-attachments/assets/2d24c30f-3c8f-4b72-922d-a3ffb5b48637" />
+
+
+
+
+
+
